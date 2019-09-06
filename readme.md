@@ -2,9 +2,9 @@
  
  这个文件的内容很重要，注意未行为空行
  
- Premain-Class: com.object.size.SizeOfObject
- Can-Redefine-Classes: false
-
+ 
+ >Premain-Class: com.object.size.SizeOfObject      
+ Can-Redefine-Classes: false 
  
  
  - 运行要加-javaagent
