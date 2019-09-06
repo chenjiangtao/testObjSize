@@ -1,0 +1,2 @@
+Premain-Class: com.object.size.SizeOfObject
+Can-Redefine-Classes: false
